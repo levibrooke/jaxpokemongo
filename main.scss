@@ -25,3 +25,9 @@ a:hover {opacity: 0.8;}
 .page-content {max-width: 800px; margin: 0 auto; }
 .wrapper {margin-top: 200px; text-align: center;}
 svg {margin: 25px 0;}
+
+@media screen (max-width: 699px) {
+    .page-content {max-width: 80%;}
+    h1 {font-size: 1.5em;}
+    h2 {font-size: 1.25em;}
+}
