@@ -9,8 +9,10 @@
 title: Jacksonville Pokemon Go
 email: info@jacksonvillepokemongo.com
 description: Domain available
+url: http://jacksonvillepokemongo.com
 
-url: http://jacksonvillepokemongo.com # the base hostname & protocol for your site
+# Meta variable for Google Webmaster tools
+google-verification: KCKo3GaDV2eE-OAAnsOb-UZbFZ_ZxjkztjpM3Vf6MVo
 
 exclude:
     - LICENSE
